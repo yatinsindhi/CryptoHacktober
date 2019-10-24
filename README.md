@@ -10,7 +10,7 @@ Modern cryptography concerns itself with the following four objectives:
 
 * Confidentiality (the information cannot be understood by anyone for whom it was unintended)
 
-* Integrity (the information cannot be altered in storage or transit between sender and intended receiver without the alteration being detected)
+* Integrity (the information cannot be altered in storage or transit between sender and intended receiver without the alteration being detected)ndbvc
 
 * Non-repudiation (the creator/sender of the information cannot deny at a later stage his or her intentions in the creation or transmission of the information)
 
